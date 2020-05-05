@@ -16,3 +16,8 @@ Enjoy at your own risk!
 - Typescript
 - Sass (Attempting to use Dart-Sass but so far cannot use the `@use` directive. WIP.)
 - PostCSS
+
+###### Dart Sass quaint issue tracker
+
+- [Carter Bancroft](https://carterbancroft.com/sass-and-webpack/)
+- [Stack Overflow of exact issue I have](https://stackoverflow.com/questions/58474760/sass-use-not-loading-partial/58476333#58476333) (but answer doesn't solve it for me)
