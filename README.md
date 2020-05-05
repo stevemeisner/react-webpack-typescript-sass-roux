@@ -13,9 +13,20 @@ Enjoy at your own risk!
 ### Tools
 
 - Webpack
+- React
 - Typescript
 - Sass (Attempting to use Dart-Sass but so far cannot use the `@use` directive. WIP.)
 - PostCSS
+
+
+### Todo
+
+- Resolve dart sass issue
+- clean up eslint and other environment/build tools and settings
+- setup Webpack for a production build
+- learn Typescript lol
+- possibly throw out Typescript because it is the backend developer's imperialistic march into the front end.
+- build something awesome
 
 ###### Dart Sass quaint issue tracker
 
